@@ -1,1 +1,1 @@
-web: java -jar me.dio:lab-gft:jar:0.0.1-SNAPSHOT.jar
+web: java -jar C:\Workspace\lab-gft\target\classes\me\dio\LabGftApplication.class:jar:0.0.1-SNAPSHOT.jar
